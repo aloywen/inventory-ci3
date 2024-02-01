@@ -1,0 +1,19 @@
+-download xampp
+-extrak file rar inventory
+-folder dipindahkan ke folder htdocs yg ada di xampp
+
+buat database dengan nama inventory di phpmyadmin : http://localhost/phpmyadmin/index.php , lalu import file inventory.sql di folder aplikasi inventory
+
+akses aplikasi : http://localhost/inventory/
+
+administrator
+username : admin
+pw : 123456
+
+staff
+username : staff
+pw : 123456
+
+gudang
+username : gudang
+pw : 098765
